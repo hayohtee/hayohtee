@@ -7,8 +7,7 @@
 
 * 🌍  I'm based in Ile-Ife, Osun State, Nigeria.
 * ✉️  You can contact me at [olamilekanakintilebo@gmail.com](mailto:olamilekanakintilebo@gmail.com)
-* 🧠  I'm learning C#(.Net), Javascript(React).
-* 🤝  I'm open to collaborating on C#(.Net), C++ and Python projects!
+* 🤝  I'm open to collaborating on C/C++ and Python projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
