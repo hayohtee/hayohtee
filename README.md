@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Olamilekan Akintilebo</h1>
-<h3 align="center">Software engineer, machine learning enthusiast and Open Source Contributor.</h3>
+<h3 align="center">Software engineer | Android Developer</h3>
 
-<p align="center">Goal-oriented and highly motivated developer. Passionate about web and cross-platform application development. I'm currently a member of [Google Developer Student Clubs (GDSC)](gdsc.community.dev/obafemi-awolowo-university/).</p>       
+<p align="center">Goal-oriented and highly motivated developer, passionate about mobile and web development. I'm currently a member of 
+  <a href="gdsc.community.dev/obafemi-awolowo-university/">Google Developer Student Clubs (GDSC)</a>.</p>       
 
 <p align="left"> <a href="https://twitter.com/hayohtee" target="blank"><img src="https://img.shields.io/twitter/follow/hayohtee?logo=twitter&style=for-the-badge" alt="hayohtee" /></a> </p>
 
 * 🌍  I'm based in Ile-Ife, Osun State, Nigeria.
 * ✉️  You can contact me at [olamilekanakintilebo@gmail.com](mailto:olamilekanakintilebo@gmail.com)
-* 🤝  I'm open to collaborating on C/C++ and Python projects!
+* 🤝  I'm open to collaborating on android and web projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
