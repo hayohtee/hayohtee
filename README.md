@@ -16,12 +16,12 @@ Technologies I Use
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Total Time: 5 hrs 53 mins
+Total Time: 6 hrs 19 mins
 
-Jupyter   4 hrs 41 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.83 %
-Python    1 hr 11 mins          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.16 %
+Jupyter   5 hrs 8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀   81.25 %
+Python    1 hr 11 mins          ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.74 %
 TOML      0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 %
 ```
 
