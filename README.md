@@ -10,7 +10,6 @@ Technologies I Use
 
  Current Goals
  - Sharpen my skills in AI/ML
- - Contribute to open-source backend and AI projects
  - Explore system design at scale
 
 <!--START_SECTION:waka-->
