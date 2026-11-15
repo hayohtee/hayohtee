@@ -15,7 +15,7 @@ Technologies I Use
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2026 - To: 12 November 2026
+From: 07 November 2026 - To: 14 November 2026
 
 Total Time: 23 mins
 
